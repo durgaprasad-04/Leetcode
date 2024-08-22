@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/durgaprasad-04/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/durgaprasad-04/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/durgaprasad-04/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/durgaprasad-04/Leetcode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/durgaprasad-04/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/durgaprasad-04/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/durgaprasad-04/Leetcode/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
 | ------- |
