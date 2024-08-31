@@ -16,6 +16,7 @@
 | [0012-integer-to-roman](https://github.com/durgaprasad-04/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/durgaprasad-04/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/durgaprasad-04/Leetcode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/durgaprasad-04/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/durgaprasad-04/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/durgaprasad-04/Leetcode/tree/master/0070-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/durgaprasad-04/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/durgaprasad-04/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
