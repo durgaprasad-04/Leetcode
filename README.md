@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/durgaprasad-04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/durgaprasad-04/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/durgaprasad-04/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/durgaprasad-04/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/durgaprasad-04/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/durgaprasad-04/Leetcode/tree/master/0049-group-anagrams) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/durgaprasad-04/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/durgaprasad-04/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/durgaprasad-04/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/durgaprasad-04/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/durgaprasad-04/Leetcode/tree/master/0036-valid-sudoku) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/durgaprasad-04/Leetcode/tree/master/0226-invert-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/durgaprasad-04/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
