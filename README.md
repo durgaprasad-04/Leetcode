@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/durgaprasad-04/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/durgaprasad-04/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/durgaprasad-04/Leetcode/tree/master/0567-permutation-in-string) |
+| [3731-find-missing-elements](https://github.com/durgaprasad-04/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/durgaprasad-04/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/durgaprasad-04/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/durgaprasad-04/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [3731-find-missing-elements](https://github.com/durgaprasad-04/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/durgaprasad-04/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/durgaprasad-04/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/durgaprasad-04/Leetcode/tree/master/0883-car-fleet) |
+| [3731-find-missing-elements](https://github.com/durgaprasad-04/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
