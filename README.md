@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/durgaprasad-04/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/durgaprasad-04/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/durgaprasad-04/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1929-concatenation-of-array](https://github.com/durgaprasad-04/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/durgaprasad-04/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/durgaprasad-04/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/durgaprasad-04/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
