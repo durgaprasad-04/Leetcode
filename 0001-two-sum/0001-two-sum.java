@@ -1,19 +1,23 @@
 class Solution {
     public static int[] twoSum(int[] nums, int target) {
-       for(int i=0;i<nums.length;i++){
-        for(int j=i+1;j<nums.length;j++){
-            if(nums[i]+nums[j]== target){
-                return new int[] {i,j};
-            }
+       HashMap<Integer,Integer>h = new HashMap<>();
+       int i;
+       int iindex=-1;
+       int jindex=-1;
+       for(i=0;i<nums.length;i++){
+        int y=target-nums[i];
+        if(h.containsKey(y)){
+            iindex=h.get(y);
+            jindex=i;
+            break;
+        
         }
-       } 
-      
-      return new int[] {};
+        h.put(nums[i],i);
  }
-    public static void main(String[] args){
-        int[] nums= {3,2,4};
-        int target=6;
-        int[] result= twoSum(nums,target);
-        System.out.println("["+ result[0]+"," + result[1] +"] ");
+    int[] a= new int[2];
+    a[0]=iindex;
+    a[1]=jindex;
+    return a;
     }
 }
+    
