@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/durgaprasad-04/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/durgaprasad-04/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/durgaprasad-04/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/durgaprasad-04/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/durgaprasad-04/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/durgaprasad-04/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/durgaprasad-04/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
