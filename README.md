@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/durgaprasad-04/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/durgaprasad-04/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/durgaprasad-04/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3783-mirror-distance-of-an-integer](https://github.com/durgaprasad-04/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
